@@ -5,23 +5,23 @@
 5    android:versionName="1.0" >
 6
 7    <uses-sdk
-8        android:minSdkVersion="23"
-8-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
-9        android:targetSdkVersion="23" />
-9-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml
+8        android:minSdkVersion="26"
+8-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="26" />
+9-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml
 10
 11    <uses-permission android:name="android.permission.INTERNET" />
-11-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:5:5-67
-11-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:5:22-64
+11-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:5:5-67
+11-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:5:22-64
 12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
-12-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:6:5-79
-12-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:6:22-76
+12-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:6:5-79
+12-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:6:22-76
 13    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-13-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:7:5-80
-13-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:7:22-77
+13-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:7:5-80
+13-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:7:22-77
 14    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-14-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:8:5-79
-14-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:8:22-76
+14-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:8:5-79
+14-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:8:22-76
 15
 16    <!-- Optional permission for Analytics to run. -->
 17    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Permissions required for GCM -->
@@ -50,41 +50,41 @@
 28-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:28:22-76
 29
 30    <application
-30-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:10:5-27:19
+30-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:10:5-27:19
 31        android:name="com.parse.starter.StarterApplication"
-31-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:11:9-43
+31-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:11:9-43
 32        android:allowBackup="true"
-32-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:12:9-35
+32-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:12:9-35
 33        android:debuggable="true"
 34        android:extractNativeLibs="false"
 35        android:icon="@mipmap/ic_launcher"
-35-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:13:9-43
+35-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:13:9-43
 36        android:label="@string/app_name"
-36-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:14:9-41
+36-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:14:9-41
 37        android:testOnly="true"
 38        android:theme="@style/AppTheme" >
-38-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:15:9-40
-39        <activity android:name="com.parse.starter.UserFeedActivity" />
-39-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:9-63
-39-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:16:19-51
-40        <activity android:name="com.parse.starter.UserListActivity" />
-40-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:9-63
-40-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:17:19-51
+38-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:15:9-40
+39        <activity android:name="com.parse.starter.FeedActivity" />
+39-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:16:9-59
+39-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:16:19-47
+40        <activity android:name="com.parse.starter.UsersActivity" />
+40-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:17:9-51
+40-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:17:19-48
 41        <activity
-41-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:18:9-26:20
+41-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:18:9-26:20
 42            android:name="com.parse.starter.MainActivity"
-42-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:19:13-41
+42-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:19:13-41
 43            android:label="@string/app_name" >
-43-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:20:13-45
+43-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:20:13-45
 44            <intent-filter>
-44-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:21:13-25:29
+44-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:21:13-25:29
 45                <action android:name="android.intent.action.MAIN" />
-45-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:17-69
-45-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:22:25-66
+45-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:22:17-69
+45-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:22:25-66
 46
 47                <category android:name="android.intent.category.LAUNCHER" />
-47-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:24:17-77
-47-->C:\Users\ADITI\AndroidStudioProjects\Parse-Server-Starter-Project\ParseStarterProject\src\main\AndroidManifest.xml:24:27-74
+47-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:24:17-77
+47-->C:\Users\ADITI\AndroidStudioProjects\TwitterClone\ParseStarterProject\src\main\AndroidManifest.xml:24:27-74
 48            </intent-filter>
 49        </activity>
 50
@@ -95,228 +95,235 @@
 53        <service android:name="com.google.android.gms.cast.framework.media.MediaNotificationService" />
 53-->[com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\793491c6c0b38867a64138a016a7552a\play-services-cast-framework-9.4.0\AndroidManifest.xml:7:9-104
 53-->[com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\793491c6c0b38867a64138a016a7552a\play-services-cast-framework-9.4.0\AndroidManifest.xml:7:18-101
-54        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+54        <service android:name="com.google.android.gms.cast.framework.ReconnectionService" />
 54-->[com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\793491c6c0b38867a64138a016a7552a\play-services-cast-framework-9.4.0\AndroidManifest.xml:8:9-92
 54-->[com.google.android.gms:play-services-cast-framework:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\793491c6c0b38867a64138a016a7552a\play-services-cast-framework-9.4.0\AndroidManifest.xml:8:18-90
-55        <activity
-55-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:26:9-29:64
-56            android:name="com.google.android.gms.ads.AdActivity"
-56-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:27:13-65
-57            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
-57-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:28:13-122
-58            android:theme="@android:style/Theme.Translucent" />
-58-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:29:13-61
+55
+56        <meta-data
+56-->[com.android.support:appcompat-v7:26.0.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b54698a6253e3a6c147a8fc9183e585c\appcompat-v7-26.0.0\AndroidManifest.xml:26:9-28:38
+57            android:name="android.support.VERSION"
+57-->[com.android.support:appcompat-v7:26.0.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b54698a6253e3a6c147a8fc9183e585c\appcompat-v7-26.0.0\AndroidManifest.xml:27:13-51
+58            android:value="26.0.0" /> <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
+58-->[com.android.support:appcompat-v7:26.0.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b54698a6253e3a6c147a8fc9183e585c\appcompat-v7-26.0.0\AndroidManifest.xml:28:13-35
 59        <activity
-59-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:30:9-31:52
-60            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
-60-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:30:19-91
-61            android:theme="@style/Theme.IAPTheme" />
-61-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:31:13-50
-62        <activity
-62-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:21:9-29:20
-63            android:name="com.google.android.gms.appinvite.PreviewActivity"
-63-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:22:17-48
-64            android:exported="true"
-64-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:23:17-40
-65            android:theme="@style/Theme.AppInvite.Preview" >
-65-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:24:17-63
-66            <intent-filter>
-66-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:25:13-28:29
-67                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
-67-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:26:17-89
-67-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:26:25-87
-68
-69                <category android:name="android.intent.category.DEFAULT" />
-69-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:27:17-75
-69-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:27:27-73
-70            </intent-filter>
-71        </activity>
-72        <activity
-72-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:21:9-24:46
-73            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
-73-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:21:19-68
-74            android:excludeFromRecents="true"
-74-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:23:19-52
-75            android:exported="false"
-75-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:24:19-43
-76            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-76-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:22:19-78
-77        <!--
-78Service handling Google Sign-In user revocation. For apps that do not integrate with
-79            Google Sign-In, this service will never be started.
-80        -->
-81        <service
-81-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:28:9-31:110
-82            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
-82-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:29:13-58
-83            android:exported="true"
-83-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:30:13-36
-84            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
-84-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:31:13-107
+59-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:26:9-29:64
+60            android:name="com.google.android.gms.ads.AdActivity"
+60-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:27:13-65
+61            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+61-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:28:13-122
+62            android:theme="@android:style/Theme.Translucent" />
+62-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:29:13-61
+63        <activity
+63-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:30:9-31:52
+64            android:name="com.google.android.gms.ads.purchase.InAppPurchaseActivity"
+64-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:30:19-91
+65            android:theme="@style/Theme.IAPTheme" />
+65-->[com.google.android.gms:play-services-ads-lite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\31b1a5665a8829e7fce4674c22984307\play-services-ads-lite-9.4.0\AndroidManifest.xml:31:13-50
+66        <activity
+66-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:21:9-29:20
+67            android:name="com.google.android.gms.appinvite.PreviewActivity"
+67-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:22:17-48
+68            android:exported="true"
+68-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:23:17-40
+69            android:theme="@style/Theme.AppInvite.Preview" >
+69-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:24:17-63
+70            <intent-filter>
+70-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:25:13-28:29
+71                <action android:name="com.google.android.gms.appinvite.ACTION_PREVIEW" />
+71-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:26:17-89
+71-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:26:25-87
+72
+73                <category android:name="android.intent.category.DEFAULT" />
+73-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:27:17-75
+73-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:27:27-73
+74            </intent-filter>
+75        </activity>
+76        <activity
+76-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:21:9-24:46
+77            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+77-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:21:19-68
+78            android:excludeFromRecents="true"
+78-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:23:19-52
+79            android:exported="false"
+79-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:24:19-43
+80            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+80-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:22:19-78
+81        <!--
+82Service handling Google Sign-In user revocation. For apps that do not integrate with
+83            Google Sign-In, this service will never be started.
+84        -->
 85        <service
-85-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:26:9-27:50
-86            android:name="com.google.firebase.crash.internal.service.FirebaseCrashReceiverService"
-86-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:26:18-79
-87            android:process=":background_crash" />
-87-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:27:13-48
-88        <service
-88-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:29:9-30:50
-89            android:name="com.google.firebase.crash.internal.service.FirebaseCrashSenderService"
-89-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:29:18-77
-90            android:process=":background_crash" />
-90-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:30:13-48
-91
-92        <activity
-92-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\dc2e02f01520d8aa3f397499dcdea5b5\play-services-base-9.4.0\AndroidManifest.xml:20:9-22:45
-93            android:name="com.google.android.gms.common.api.GoogleApiActivity"
-93-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\dc2e02f01520d8aa3f397499dcdea5b5\play-services-base-9.4.0\AndroidManifest.xml:20:19-85
-94            android:exported="false"
-94-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\dc2e02f01520d8aa3f397499dcdea5b5\play-services-base-9.4.0\AndroidManifest.xml:22:19-43
-95            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
-95-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\dc2e02f01520d8aa3f397499dcdea5b5\play-services-base-9.4.0\AndroidManifest.xml:21:19-78
-96        <!--
-97 FirebaseMessagingService performs security checks at runtime,
-98             no need for explicit permissions despite exported="true"
-99        -->
-100        <service
-100-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:24:9-30:19
-101            android:name="com.google.firebase.messaging.FirebaseMessagingService"
-101-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:25:13-82
-102            android:exported="true" >
-102-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:26:13-36
-103            <intent-filter android:priority="-500" >
-103-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:27:13-29:29
-103-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:27:28-51
-104                <action android:name="com.google.firebase.MESSAGING_EVENT" />
-104-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:28:17-78
-104-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:28:25-75
-105            </intent-filter>
-106        </service>
-107        <service
-107-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:25:9-27:42
-108            android:name="com.google.android.gms.tagmanager.TagManagerService"
-108-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:25:18-84
-109            android:enabled="true"
-109-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:27:17-39
-110            android:exported="false" />
-110-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:26:17-41
-111
-112        <activity
-112-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:28:9-37:20
-113            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
-113-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:29:13-87
-114            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
-114-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:30:13-37
-115            <intent-filter>
-115-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:31:13-36:29
-116                <data android:scheme="tagmanager.c.com.parse.starter" />
-116-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:32:17-72
-116-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:32:23-69
-117
-118                <action android:name="android.intent.action.VIEW" />
-118-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:33:17-69
-118-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:33:25-66
-119
-120                <category android:name="android.intent.category.DEFAULT" />
-120-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:27:17-75
-120-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:27:27-73
-121                <category android:name="android.intent.category.BROWSABLE" />
-121-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:35:17-77
-121-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:35:27-75
-122            </intent-filter>
-123        </activity>
-124
-125        <receiver
-125-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:28:7-34:18
-126            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
-126-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:29:11-83
-127            android:enabled="true" >
-127-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:30:11-33
-128            <intent-filter>
-128-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:31:9-33:25
-129                <action android:name="com.google.android.gms.measurement.UPLOAD" />
-129-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:32:11-77
-129-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:32:19-75
-130            </intent-filter>
-131        </receiver>
-132
-133        <service
-133-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:36:7-39:37
-134            android:name="com.google.android.gms.measurement.AppMeasurementService"
-134-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:37:11-82
-135            android:enabled="true"
-135-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:38:11-33
-136            android:exported="false" />
-136-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:39:11-35
-137
-138        <receiver
-138-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:32:9-41:20
-139            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
-139-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:33:13-78
-140            android:exported="true"
-140-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:34:13-36
-141            android:permission="com.google.android.c2dm.permission.SEND" >
-141-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:35:13-73
-142            <intent-filter>
-142-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:36:13-40:29
-143                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
-143-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:37:17-81
-143-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:37:25-78
-144                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
-144-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:38:17-86
-144-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:38:25-83
-145
-146                <category android:name="com.parse.starter" />
-146-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:39:17-61
-146-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:39:27-58
-147            </intent-filter>
-148        </receiver>
-149        <!--
-150 Internal (not exported) receiver used by the app to start its own exported services
-151             without risk of being spoofed.
-152        -->
-153        <receiver
-153-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:45:9-47:40
-154            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
-154-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:46:13-86
-155            android:exported="false" />
-155-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:47:13-37
-156        <!--
-157 FirebaseInstanceIdService performs security checks at runtime,
-158             no need for explicit permissions despite exported="true"
-159        -->
-160        <service
-160-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:51:9-57:19
-161            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
-161-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:52:13-77
-162            android:exported="true" >
-162-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:53:13-36
-163            <intent-filter android:priority="-500" >
-163-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:54:13-56:29
-163-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:54:28-51
-164                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
-164-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:55:17-80
-164-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:55:25-77
-165            </intent-filter>
-166        </service>
-167
-168        <provider
-168-->[com.google.firebase:firebase-common:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\8207ef80924d59f61e3aa9392db1dc8c\firebase-common-9.4.0\AndroidManifest.xml:7:9-11:39
-169            android:name="com.google.firebase.provider.FirebaseInitProvider"
-169-->[com.google.firebase:firebase-common:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\8207ef80924d59f61e3aa9392db1dc8c\firebase-common-9.4.0\AndroidManifest.xml:9:13-58
-170            android:authorities="com.parse.starter.firebaseinitprovider"
-170-->[com.google.firebase:firebase-common:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\8207ef80924d59f61e3aa9392db1dc8c\firebase-common-9.4.0\AndroidManifest.xml:8:13-72
-171            android:exported="false"
-171-->[com.google.firebase:firebase-common:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\8207ef80924d59f61e3aa9392db1dc8c\firebase-common-9.4.0\AndroidManifest.xml:10:13-37
-172            android:initOrder="100" />
-172-->[com.google.firebase:firebase-common:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\8207ef80924d59f61e3aa9392db1dc8c\firebase-common-9.4.0\AndroidManifest.xml:11:13-36
-173
-174        <meta-data
-174-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\f391c0ffbb64f1521cd02d11f80a10f2\play-services-basement-9.4.0\AndroidManifest.xml:21:9-23:69
-175            android:name="com.google.android.gms.version"
-175-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\f391c0ffbb64f1521cd02d11f80a10f2\play-services-basement-9.4.0\AndroidManifest.xml:22:13-58
-176            android:value="@integer/google_play_services_version" />
-176-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\f391c0ffbb64f1521cd02d11f80a10f2\play-services-basement-9.4.0\AndroidManifest.xml:23:13-66
-177    </application>
-178
-179</manifest>
+85-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:28:9-31:110
+86            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+86-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:29:13-58
+87            android:exported="true"
+87-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:30:13-36
+88            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" />
+88-->[com.google.android.gms:play-services-auth:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\293937f9fe2caba389ab477d21e3355e\play-services-auth-9.4.0\AndroidManifest.xml:31:13-107
+89        <service
+89-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:26:9-27:50
+90            android:name="com.google.firebase.crash.internal.service.FirebaseCrashReceiverService"
+90-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:26:18-79
+91            android:process=":background_crash" />
+91-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:27:13-48
+92        <service
+92-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:29:9-30:50
+93            android:name="com.google.firebase.crash.internal.service.FirebaseCrashSenderService"
+93-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:29:18-77
+94            android:process=":background_crash" />
+94-->[com.google.firebase:firebase-crash:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b9fd7a38e3b10ef6b5ca6c44ba60de81\firebase-crash-9.4.0\AndroidManifest.xml:30:13-48
+95
+96        <activity
+96-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\dc2e02f01520d8aa3f397499dcdea5b5\play-services-base-9.4.0\AndroidManifest.xml:20:9-22:45
+97            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+97-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\dc2e02f01520d8aa3f397499dcdea5b5\play-services-base-9.4.0\AndroidManifest.xml:20:19-85
+98            android:exported="false"
+98-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\dc2e02f01520d8aa3f397499dcdea5b5\play-services-base-9.4.0\AndroidManifest.xml:22:19-43
+99            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+99-->[com.google.android.gms:play-services-base:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\dc2e02f01520d8aa3f397499dcdea5b5\play-services-base-9.4.0\AndroidManifest.xml:21:19-78
+100        <!--
+101 FirebaseMessagingService performs security checks at runtime,
+102             no need for explicit permissions despite exported="true"
+103        -->
+104        <service
+104-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:24:9-30:19
+105            android:name="com.google.firebase.messaging.FirebaseMessagingService"
+105-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:25:13-82
+106            android:exported="true" >
+106-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:26:13-36
+107            <intent-filter android:priority="-500" >
+107-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:27:13-29:29
+107-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:27:28-51
+108                <action android:name="com.google.firebase.MESSAGING_EVENT" />
+108-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:28:17-78
+108-->[com.google.firebase:firebase-messaging:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\c5f3ef14941d9c6977f7588d335e9342\firebase-messaging-9.4.0\AndroidManifest.xml:28:25-75
+109            </intent-filter>
+110        </service>
+111        <service
+111-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:25:9-27:42
+112            android:name="com.google.android.gms.tagmanager.TagManagerService"
+112-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:25:18-84
+113            android:enabled="true"
+113-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:27:17-39
+114            android:exported="false" />
+114-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:26:17-41
+115
+116        <activity
+116-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:28:9-37:20
+117            android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
+117-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:29:13-87
+118            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+118-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:30:13-37
+119            <intent-filter>
+119-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:31:13-36:29
+120                <data android:scheme="tagmanager.c.com.parse.starter" />
+120-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:32:17-72
+120-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:32:23-69
+121
+122                <action android:name="android.intent.action.VIEW" />
+122-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:33:17-69
+122-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:33:25-66
+123
+124                <category android:name="android.intent.category.DEFAULT" />
+124-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:27:17-75
+124-->[com.google.android.gms:play-services-appinvite:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\95c2a393f37ecee40c362bc2281f1a7c\play-services-appinvite-9.4.0\AndroidManifest.xml:27:27-73
+125                <category android:name="android.intent.category.BROWSABLE" />
+125-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:35:17-77
+125-->[com.google.android.gms:play-services-tagmanager-api:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\7914782bdb1864e8d98e205dad40d452\play-services-tagmanager-api-9.4.0\AndroidManifest.xml:35:27-75
+126            </intent-filter>
+127        </activity>
+128
+129        <receiver
+129-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:28:7-34:18
+130            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+130-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:29:11-83
+131            android:enabled="true" >
+131-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:30:11-33
+132            <intent-filter>
+132-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:31:9-33:25
+133                <action android:name="com.google.android.gms.measurement.UPLOAD" />
+133-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:32:11-77
+133-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:32:19-75
+134            </intent-filter>
+135        </receiver>
+136
+137        <service
+137-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:36:7-39:37
+138            android:name="com.google.android.gms.measurement.AppMeasurementService"
+138-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:37:11-82
+139            android:enabled="true"
+139-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:38:11-33
+140            android:exported="false" />
+140-->[com.google.firebase:firebase-analytics:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\998db326a20936ba5c057d1c8734cd11\firebase-analytics-9.4.0\AndroidManifest.xml:39:11-35
+141
+142        <receiver
+142-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:32:9-41:20
+143            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+143-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:33:13-78
+144            android:exported="true"
+144-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:34:13-36
+145            android:permission="com.google.android.c2dm.permission.SEND" >
+145-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:35:13-73
+146            <intent-filter>
+146-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:36:13-40:29
+147                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+147-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:37:17-81
+147-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:37:25-78
+148                <action android:name="com.google.android.c2dm.intent.REGISTRATION" />
+148-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:38:17-86
+148-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:38:25-83
+149
+150                <category android:name="com.parse.starter" />
+150-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:39:17-61
+150-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:39:27-58
+151            </intent-filter>
+152        </receiver>
+153        <!--
+154 Internal (not exported) receiver used by the app to start its own exported services
+155             without risk of being spoofed.
+156        -->
+157        <receiver
+157-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:45:9-47:40
+158            android:name="com.google.firebase.iid.FirebaseInstanceIdInternalReceiver"
+158-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:46:13-86
+159            android:exported="false" />
+159-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:47:13-37
+160        <!--
+161 FirebaseInstanceIdService performs security checks at runtime,
+162             no need for explicit permissions despite exported="true"
+163        -->
+164        <service
+164-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:51:9-57:19
+165            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+165-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:52:13-77
+166            android:exported="true" >
+166-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:53:13-36
+167            <intent-filter android:priority="-500" >
+167-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:54:13-56:29
+167-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:54:28-51
+168                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+168-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:55:17-80
+168-->[com.google.firebase:firebase-iid:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\b7b23d568df8fcda6faa3d7226322739\firebase-iid-9.4.0\AndroidManifest.xml:55:25-77
+169            </intent-filter>
+170        </service>
+171
+172        <provider
+172-->[com.google.firebase:firebase-common:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\8207ef80924d59f61e3aa9392db1dc8c\firebase-common-9.4.0\AndroidManifest.xml:7:9-11:39
+173            android:name="com.google.firebase.provider.FirebaseInitProvider"
+173-->[com.google.firebase:firebase-common:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\8207ef80924d59f61e3aa9392db1dc8c\firebase-common-9.4.0\AndroidManifest.xml:9:13-58
+174            android:authorities="com.parse.starter.firebaseinitprovider"
+174-->[com.google.firebase:firebase-common:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\8207ef80924d59f61e3aa9392db1dc8c\firebase-common-9.4.0\AndroidManifest.xml:8:13-72
+175            android:exported="false"
+175-->[com.google.firebase:firebase-common:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\8207ef80924d59f61e3aa9392db1dc8c\firebase-common-9.4.0\AndroidManifest.xml:10:13-37
+176            android:initOrder="100" />
+176-->[com.google.firebase:firebase-common:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\8207ef80924d59f61e3aa9392db1dc8c\firebase-common-9.4.0\AndroidManifest.xml:11:13-36
+177
+178        <meta-data
+178-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\f391c0ffbb64f1521cd02d11f80a10f2\play-services-basement-9.4.0\AndroidManifest.xml:21:9-23:69
+179            android:name="com.google.android.gms.version"
+179-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\f391c0ffbb64f1521cd02d11f80a10f2\play-services-basement-9.4.0\AndroidManifest.xml:22:13-58
+180            android:value="@integer/google_play_services_version" />
+180-->[com.google.android.gms:play-services-basement:9.4.0] C:\Users\ADITI\.gradle\caches\transforms-2\files-2.1\f391c0ffbb64f1521cd02d11f80a10f2\play-services-basement-9.4.0\AndroidManifest.xml:23:13-66
+181    </application>
+182
+183</manifest>

@@ -33,11 +33,13 @@ public class StarterApplication extends Application {
     // Add your initialization code here
     //Replace #YOUR_ID with your information
     Parse.initialize(new Parse.Configuration.Builder(getApplicationContext())
-            .applicationId("#YOUR_APP_ID")
-            .clientKey("#YOUR_CLIENT_ID")
-            .server("#SERVER_KEY")
+            .applicationId("YOUR_APP_ID")
+            .clientKey("YOUR_MASTER_KEY")
+            .server("YOUR_SERVER_KEY")
             .build()
     );
+
+
 
     //ParseUser.enableAutomaticUser();
 

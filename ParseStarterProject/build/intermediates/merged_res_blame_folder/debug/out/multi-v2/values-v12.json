@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ADITI\\AndroidStudioProjects\\Parse-Server-Starter-Project\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
+            "outputFile": "C:\\Users\\ADITI\\AndroidStudioProjects\\TwitterClone\\ParseStarterProject\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v12\\values-v12.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ADITI\\.gradle\\caches\\transforms-2\\files-2.1\\0c82db5f5c567244869834e7e6a98808\\appcompat-v7-23.4.0\\res\\values-v12\\values-v12.xml",
+                    "source": "C:\\Users\\ADITI\\.gradle\\caches\\transforms-2\\files-2.1\\b54698a6253e3a6c147a8fc9183e585c\\appcompat-v7-26.0.0\\res\\values-v12\\values-v12.xml",
                     "from": {
                         "startLines": "2,5,8,9",
                         "startColumns": "4,4,4,4",

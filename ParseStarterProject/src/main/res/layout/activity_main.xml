@@ -19,23 +19,23 @@
     tools:context=".MainActivity">
 
     <ImageView
-        android:id="@+id/logoImageView"
-        android:layout_width="150dp"
-        android:layout_height="150dp"
-        android:layout_alignParentTop="true"
+        android:id="@+id/imageView"
+        android:layout_width="245dp"
+        android:layout_height="197dp"
         android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginTop="44dp"
-        android:layout_marginEnd="116dp"
-        android:layout_marginRight="116dp"
-        app:srcCompat="@drawable/instagram" />
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="73dp"
+        android:layout_marginBottom="476dp"
+        app:srcCompat="@drawable/twitter" />
 
     <EditText
         android:id="@+id/usernameEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/logoImageView"
-        android:layout_marginTop="50dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="-25dp"
+        android:layout_marginBottom="358dp"
         android:ems="10"
         android:hint="Username"
         android:inputType="textPersonName" />
@@ -44,36 +44,22 @@
         android:id="@+id/passwordEditText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/usernameEditText"
-        android:layout_marginTop="40dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="5dp"
+        android:layout_marginBottom="287dp"
         android:ems="10"
         android:hint="Password"
         android:inputType="textPassword" />
 
     <Button
         android:id="@+id/signUpButton"
-        android:layout_width="125dp"
-        android:layout_height="74dp"
-        android:layout_below="@+id/passwordEditText"
-        android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginTop="46dp"
-        android:layout_marginEnd="138dp"
-        android:layout_marginRight="138dp"
-        android:onClick="signUpClick"
-        android:text="Sign Up" />
-
-    <TextView
-        android:id="@+id/logInTextView"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/passwordEditText"
         android:layout_alignParentEnd="true"
-        android:layout_alignParentRight="true"
-        android:layout_marginTop="70dp"
-        android:layout_marginEnd="43dp"
-        android:layout_marginRight="43dp"
-        android:text="or Log In"
-        android:textColor="#03A9F4"
-        android:textSize="20sp" />
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="140dp"
+        android:layout_marginBottom="225dp"
+        android:onClick="onClick"
+        android:text="Sign Up/ Log In" />
 </RelativeLayout>
